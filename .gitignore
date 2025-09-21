@@ -1,0 +1,29 @@
+# Django
+*.pyc
+__pycache__/
+*.sqlite3
+.env
+.venv/
+venv/
+
+# Nuxt
+.nuxt/
+.output/
+node_modules/
+*.log
+.nitro/
+.cache/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
